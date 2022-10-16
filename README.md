@@ -122,7 +122,7 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 
 
 ## Kiel - Program  
-
+```
 #include<lpc214x.h>
 #include<stdint.h>
 #include<stdio.h>
@@ -192,7 +192,7 @@ int main(void)
 		return 0;
 }
 
-
+```
 
 
 ## Proteus simulation 
